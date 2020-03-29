@@ -1,0 +1,18 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: consumer-order-service
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
+  instance:
+    instance-id: order-service80
+    prefer-ip-address: true
+feign:
+  hystrix:
+    enabled: true
