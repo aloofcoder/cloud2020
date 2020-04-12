@@ -1,6 +1,5 @@
 package github.aloofcoder.springcloud.controller;
 
-import com.netflix.discovery.converters.Auto;
 import github.aloofcoder.springcloud.service.IPaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,6 +29,18 @@ public class PaymentHystrixController {
     public String getPaymentTimeOut(@PathVariable("id") Long id) {
         String result = paymentService.getPayment_TimeOut(id);
         log.info("****** result：" + result);
+        return result;
+    }
+
+    /**
+     * 服务熔断
+     * @param id
+     * @return
+     */
+    @GetMapping("/payment/circuit/{id}")
+    public String paymentCircuitBreaker(@PathVariable("id") Integer id) {
+        String result = paymentService.paymentCircuitBreaker(id);
+        log.info("*** result：" + result);
         return result;
     }
 }
