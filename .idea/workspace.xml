@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df381a8e-11e3-4d91-943d-10f00c093434" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cloud2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/github/aloofcoder/springcloud/controller/OrderHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/github/aloofcoder/springcloud/controller/OrderHystrixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/github/aloofcoder/springcloud/service/PaymentHystrixService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/github/aloofcoder/springcloud/service/PaymentHystrixService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/github/aloofcoder/springcloud/controller/OrderHystrixController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/github/aloofcoder/springcloud/controller/OrderHystrixController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/github/aloofcoder/springcloud/service/PaymentHystrixService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/github/aloofcoder/springcloud/service/PaymentHystrixService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-service7001/cloud-eureka-service7001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-service7002/cloud-eureka-service7002.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-service7003/cloud-eureka-service7003.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/PaymentHystrixMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/controller/PaymentHystrixController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/controller/PaymentHystrixController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/service/IPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/service/IPaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/github/aloofcoder/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/controller/PaymentHystrixController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/controller/PaymentHystrixController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/service/IPaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/service/IPaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/github/aloofcoder/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/META-INF/cloud-provider-payment8001.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/META-INF/cloud-provider-payment8002.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +188,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -245,7 +213,7 @@
       <workItem from="1585568958805" duration="608000" />
       <workItem from="1586702602706" duration="16000" />
       <workItem from="1586702634314" duration="421000" />
-      <workItem from="1586703068855" duration="4461000" />
+      <workItem from="1586703068855" duration="5170000" />
     </task>
     <servers />
   </component>
@@ -265,38 +233,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="423" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586702677829" />
-    <state width="845" height="398" key="GridCell.Tab.0.bottom" timestamp="1586707681807">
+    <state width="845" height="398" key="GridCell.Tab.0.bottom" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586707681807" />
-    <state width="845" height="398" key="GridCell.Tab.0.center" timestamp="1586707681806">
+    <state width="845" height="398" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.0.center" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586707681806" />
-    <state width="845" height="398" key="GridCell.Tab.0.left" timestamp="1586707681806">
+    <state width="845" height="398" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.0.left" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586707681806" />
-    <state width="845" height="398" key="GridCell.Tab.0.right" timestamp="1586707681806">
+    <state width="845" height="398" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.0.right" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586707681806" />
-    <state width="845" height="398" key="GridCell.Tab.1.bottom" timestamp="1586707681807">
+    <state width="845" height="398" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.1.bottom" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586707681807" />
-    <state width="845" height="398" key="GridCell.Tab.1.center" timestamp="1586707681807">
+    <state width="845" height="398" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.1.center" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586707681807" />
-    <state width="845" height="398" key="GridCell.Tab.1.left" timestamp="1586707681807">
+    <state width="845" height="398" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.1.left" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586707681807" />
-    <state width="845" height="398" key="GridCell.Tab.1.right" timestamp="1586707681807">
+    <state width="845" height="398" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
+    <state width="845" height="398" key="GridCell.Tab.1.right" timestamp="1586707831978">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="398" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586707681807" />
+    <state width="845" height="398" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1586707831978" />
     <state x="228" y="6" key="Registry" timestamp="1585075854339">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
